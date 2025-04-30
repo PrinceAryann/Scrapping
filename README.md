@@ -1,6 +1,5 @@
 ---
 
-```markdown
 # 📰 Hacker News Web Scraper
 
 This Python script scrapes the [Hacker News](https://news.ycombinator.com/news) homepage to collect and store post titles, links, and their upvote scores in a CSV file, sorted by highest score.
